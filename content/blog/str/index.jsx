@@ -11,7 +11,7 @@ const svgStyle = {
 }
 
 const roleExplainers = {
-    "": "Pick a role to see a summary",
+    "": "Click a role or S+ dot to see the responsibilties at each level",
     "TL": "Provide project team level discipline leadership and governance. Consultant to the PO and DL",
     "TL+": "Provide account level technical leadership and governance. Work with internal stake holders on technical issues, own relationships from engagement planning with key strategic stakeholders",
     "TD": "Provide cell level technical leadership and governance across multiple clients. Own entire client engagement(s). Co-own the technology discipline internally and outward representation to the industry.",
