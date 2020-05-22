@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `DEMO`,
+    title: `BITS & BOBS`,
     author: `Sam Taylor`,
     description: `Published Mindshare`,
-    siteUrl: `https://aboutblank`,
+    siteUrl: `https://bitsandbobs.io/`,
     social: {
       twitter: `sjltaylor`,
     },
